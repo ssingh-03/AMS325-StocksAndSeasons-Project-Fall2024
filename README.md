@@ -6,6 +6,8 @@ Class: AMS 325 Fall 2024
 
 We are analyzing whether there are significant differences in how stocks perform across different quarters and holidays.
 
+Dataset:
+
 Amazon: 
 https://www.kaggle.com/datasets/henryshan/amazon-com-inc-amzn
 
